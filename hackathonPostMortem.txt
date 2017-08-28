@@ -1,0 +1,35 @@
+What went right?
+    - after a few starts and stops we were able to use git
+    - each team member contributed based on their strength
+    - usage of Trello to manage action items
+    - We won ! ! ! ! :)
+
+What did you learn?
+    - FaceBook login SDK
+    - Different TAs have different styles in solving issues
+    - how to start a project without Vue then with Vue and then ripping Vue out again
+    - clear communication is needed between team members when merging and pushing code to git
+
+How could you have improved the experience?
+    - implement the Mobile first methodology
+    - make the app multiuser
+
+What environmental factors contributed to the success/failure
+    - referring back to class notes helped greatly
+    - started quickly over the weekend at a team members home
+
+What went wrong, and how can you avoid these things in the future?
+    - a key piece of code was lost during a git push which pushed us back a few hours. Implementing TDD (Test Driven Development) may help catch this sooner.
+
+What questions did this project raise for you?
+    - how can I clearly define the requirements/scope of functionality of the project and keep development on track?
+
+What concepts from this project do you now feel like you really know?
+    - "created" section of Vue
+    - Facebook Login SDK
+
+What concepts are still somewhat fuzzy for you?
+    - event handlers within and outside of Vue
+
+What concepts seem like they're still out of reach?
+    - none, there are enough resources externally and from our notes to help with understanding the concepts we have been using. 
